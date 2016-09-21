@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace YogevPro
 {
-    class Program
+    class Location
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("lets start up!");
-           
-        }
     }
 }

@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace YogevPro
 {
-    class Program
+    interface IWeatherDataService
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("lets start up!");
-           
-        }
+        WeatherData GetWeatherData(Location location);
     }
 }
