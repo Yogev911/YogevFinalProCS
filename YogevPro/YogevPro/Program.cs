@@ -12,6 +12,7 @@ namespace YogevPro
         {
             Console.WriteLine("hello world");
             Console.WriteLine("somthing");
+            Console.WriteLine("rgrgrgr");
         }
     }
 }
